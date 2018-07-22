@@ -29,15 +29,10 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Machine Learning](#machine-learning)
     - [Messaging](#messaging)
     - [Microservices](#microservices)
-    - [Miscellaneous](#miscellaneous)
     - [Natural Language Processing](#natural-language-processing)
     - [Networking](#networking)
-    - [ORM](#orm)
-    - [OpenGL](#opengl)
-    - [Package Management](#package-management)
     - [Python](#python-programming)
     - [Query Language](#query-language)
-    - [Resource Embedding](#resource-embedding)
     - [Ruby](#ruby-programming)
     - [Science and Data Analysis](#science-and-data-analysis)
     - [Security](#security)
@@ -51,3 +46,5 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Video Tutorials](#video-tutorials)
         - [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
         - [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+
+
