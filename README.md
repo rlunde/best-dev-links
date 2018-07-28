@@ -42,9 +42,11 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Tools](#tools)
     - [Utilities](#utilities)
 
+- [CSS](#css)
+    - [Video Tutorials](#css-video-tutorials)
+        - [Learn CSS Grid for Free](https://scrimba.com/g/gR8PTE)
+
 - [General Programming](#general-programming)
     - [Video Tutorials](#video-tutorials)
         - [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
         - [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
-
-
