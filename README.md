@@ -43,19 +43,19 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Utilities](#utilities)
 
 ## CSS
-    - [Video Tutorials](#css-video-tutorials)
-        - [Learn CSS Grid for Free](https://scrimba.com/g/gR8PTE)
+- [Video Tutorials](#css-video-tutorials)
+    - [Learn CSS Grid for Free](https://scrimba.com/g/gR8PTE)
 
 ## General Programming
-    - [Video Tutorials](#video-tutorials)
-        - [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
-        - [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+- [Video Tutorials](#video-tutorials)
+    - [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
+    - [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 
 ## JavaScript
 ### React
-    - [Online Classes]
-        - [Modern React with Redux by Stephen Grider / Udemy](https://www.udemy.com/react-redux)
-        - [Building Applications with React and Redux in ES6 by Cory House / Pluralsight](https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents)
+- [Online Classes]
+    - [Modern React with Redux by Stephen Grider / Udemy](https://www.udemy.com/react-redux)
+    - [Building Applications with React and Redux in ES6 by Cory House / Pluralsight](https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents)
 ### Redux
-    - [Add Redux To A React App](https://code.likeagirl.io/tutorial-for-adding-redux-to-a-react-app-1a94cc1738e5)
+- [Add Redux To A React App](https://code.likeagirl.io/tutorial-for-adding-redux-to-a-react-app-1a94cc1738e5)
 
