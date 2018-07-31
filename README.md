@@ -45,6 +45,7 @@ A curated list of my favorite online video and blog tutorials for developers
 ## CSS
 - [Video Tutorials](#css-video-tutorials)
     - [Learn CSS Grid for Free](https://scrimba.com/g/gR8PTE)
+    - [CSS Grid Changes EVERYTHING](https://www.youtube.com/watch?v=7kVeCqQCxlk)
 
 ## General Programming
 - [Video Tutorials](#video-tutorials)
