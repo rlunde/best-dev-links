@@ -60,6 +60,10 @@ A curated list of my favorite online video and blog tutorials for developers
 ### Redux
 - [Add Redux To A React App](https://code.likeagirl.io/tutorial-for-adding-redux-to-a-react-app-1a94cc1738e5)
 
+## Python
+- [Blogs]
+    - [Learn Functional Python in 10 Minutes](https://hackernoon.com/learn-functional-python-in-10-minutes-to-2d1651dece6f)
+
 ## Ruby
 - [Interactive Learning]
     - [Try Ruby](https://ruby.github.io/TryRuby/)
