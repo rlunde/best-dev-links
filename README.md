@@ -63,6 +63,8 @@ A curated list of my favorite online video and blog tutorials for developers
 ## Python
 - [Blogs]
     - [Learn Functional Python in 10 Minutes](https://hackernoon.com/learn-functional-python-in-10-minutes-to-2d1651dece6f)
+- [Online Classes]
+    - [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
 
 ## Ruby
 - [Interactive Learning]
