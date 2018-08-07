@@ -51,6 +51,10 @@ A curated list of my favorite online video and blog tutorials for developers
 - [Video Tutorials](#video-tutorials)
     - [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
     - [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+- [Online Classes and Tutorials]
+    - [CodeAcademy](https://www.codecademy.com/learn)
+    - [Coursera (not just coding -- everything)](https://www.coursera.org/)
+    - [freeCodeCamp](https://www.freecodecamp.org/)
 
 ## JavaScript
 ### React
