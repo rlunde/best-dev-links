@@ -63,6 +63,9 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Building Applications with React and Redux in ES6 by Cory House / Pluralsight](https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents)
 ### Redux
 - [Add Redux To A React App](https://code.likeagirl.io/tutorial-for-adding-redux-to-a-react-app-1a94cc1738e5)
+- [Video Tutorials]
+    - [Redux Tutorial #1 - How Redux Works](https://www.youtube.com/watch?v=1w-oQ-i1XB8)
+    - [Learn React/Redux in one video](https://www.youtube.com/watch?v=OSSpVLpuVWA)
 
 ## Python
 - [Blogs]
