@@ -66,6 +66,7 @@ A curated list of my favorite online video and blog tutorials for developers
 - [Video Tutorials]
     - [Redux Tutorial #1 - How Redux Works](https://www.youtube.com/watch?v=1w-oQ-i1XB8)
     - [Learn React/Redux in one video](https://www.youtube.com/watch?v=OSSpVLpuVWA)
+    - [Learn Redux (20 videos)](https://learnredux.com/)
 
 ## Python
 - [Blogs]
