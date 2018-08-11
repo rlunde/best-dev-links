@@ -55,6 +55,8 @@ A curated list of my favorite online video and blog tutorials for developers
     - [CodeAcademy](https://www.codecademy.com/learn)
     - [Coursera (not just coding -- everything)](https://www.coursera.org/)
     - [freeCodeCamp](https://www.freecodecamp.org/)
+- [Coding Games]
+    - [Codewars (many languages)](https://www.codewars.com/dashboard)
 
 ## JavaScript
 ### React
