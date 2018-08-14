@@ -69,6 +69,8 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Redux Tutorial #1 - How Redux Works](https://www.youtube.com/watch?v=1w-oQ-i1XB8)
     - [Learn React/Redux in one video](https://www.youtube.com/watch?v=OSSpVLpuVWA)
     - [Learn Redux (20 videos)](https://learnredux.com/)
+- [Blogs]
+    - [Build your first React Redux Application](https://codepen.io/allanpope/post/build-react-redux-component)
 - [Examples]
     - [TodoMVC react/redux example](https://github.com/reduxjs/redux/tree/master/examples/todomvc)
     - [Async react/redux example](https://github.com/reduxjs/redux/tree/master/examples/async)
@@ -81,6 +83,9 @@ A curated list of my favorite online video and blog tutorials for developers
 
 - [Online Classes]
     - [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
+
+- [Online Books]
+    - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
 ## Ruby
 - [Interactive Learning]
