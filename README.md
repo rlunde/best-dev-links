@@ -59,6 +59,9 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Codewars (many languages)](https://www.codewars.com/dashboard)
 
 ## JavaScript
+- [Blogs]
+    - [Learn ES6 The Dope Way] (https://medium.freecodecamp.org/learn-es6-the-dope-way-i-const-let-var-ae828580472b)
+    
 ### React
 - [Online Classes]
     - [Modern React with Redux by Stephen Grider / Udemy](https://www.udemy.com/react-redux)
