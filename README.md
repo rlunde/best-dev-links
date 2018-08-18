@@ -58,6 +58,12 @@ A curated list of my favorite online video and blog tutorials for developers
 - [Coding Games]
     - [Codewars (many languages)](https://www.codewars.com/dashboard)
 
+## Go
+- [Videos]
+    - [High Performance Go / Dave Cheney](https://www.youtube.com/watch?v=ADT25tuAx4A)
+    - [Concurrency is not Parallelism / Rob Pike](https://www.youtube.com/watch?v=cN_DpYBzKso)
+
+
 ## JavaScript
 - [Blogs]
     - [Learn ES6 The Dope Way](https://medium.freecodecamp.org/learn-es6-the-dope-way-i-const-let-var-ae828580472b)
