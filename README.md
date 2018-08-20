@@ -72,6 +72,11 @@ A curated list of my favorite online video and blog tutorials for developers
 - [Online Classes]
     - [Modern React with Redux by Stephen Grider / Udemy](https://www.udemy.com/react-redux)
     - [Building Applications with React and Redux in ES6 by Cory House / Pluralsight](https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents)
+- [Blogs]
+    - [9 Things Every React.js Beginner Should Know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know)
+    - [10 React Mini-Patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5)
+    - [AJAX Requests in React: How and Where to Fetch Data](https://daveceddia.com/ajax-requests-in-react/)
+
 ### Redux
 - [Add Redux To A React App](https://code.likeagirl.io/tutorial-for-adding-redux-to-a-react-app-1a94cc1738e5)
 - [Video Tutorials]
