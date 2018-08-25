@@ -77,6 +77,13 @@ A curated list of my favorite online video and blog tutorials for developers
     - [10 React Mini-Patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5)
     - [AJAX Requests in React: How and Where to Fetch Data](https://daveceddia.com/ajax-requests-in-react/)
 
+### React Native
+- [Documentation]
+    - [React Native](https://facebook.github.io/react-native/)
+    - [Getting Started](https://facebook.github.io/react-native/docs/getting-started.html)
+- [Projects]
+    - [React Native for MacOS](https://github.com/ptmt/react-native-macos)
+
 ### Redux
 - [Add Redux To A React App](https://code.likeagirl.io/tutorial-for-adding-redux-to-a-react-app-1a94cc1738e5)
 - [Video Tutorials]
