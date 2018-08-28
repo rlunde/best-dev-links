@@ -21,6 +21,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Editors](#editors)
     - [Elixir](#elixir-programming)
     - [General Programming](#general-programming)
+    - [Git](#git)
     - [Go](#go-programming)
     - [IoT](#iot-internet-of-things)
     - [JavaScript](#javascript-programming)
@@ -57,6 +58,10 @@ A curated list of my favorite online video and blog tutorials for developers
     - [freeCodeCamp](https://www.freecodecamp.org/)
 - [Coding Games]
     - [Codewars (many languages)](https://www.codewars.com/dashboard)
+
+## Git
+- [Blogs]
+    - [How To Find Stuff In Git](https://medium.com/@tygertec/how-to-find-stuff-in-git-35d4cb8c1845)
 
 ## Go
 - [Videos]
