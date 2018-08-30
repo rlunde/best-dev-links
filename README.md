@@ -99,6 +99,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Redux Tutorial #1 - How Redux Works](https://www.youtube.com/watch?v=1w-oQ-i1XB8)
     - [Learn React/Redux in one video](https://www.youtube.com/watch?v=OSSpVLpuVWA)
     - [Learn Redux (20 videos)](https://learnredux.com/)
+    - [Getting Started With Redux (by Dan Abramov)](https://egghead.io/courses/getting-started-with-redux)
 - [Blogs]
     - [Build your first React Redux Application](https://codepen.io/allanpope/post/build-react-redux-component)
 - [Examples]
