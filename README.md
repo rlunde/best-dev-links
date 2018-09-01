@@ -47,6 +47,10 @@ A curated list of my favorite online video and blog tutorials for developers
 - [Video Tutorials](#css-video-tutorials)
     - [Learn CSS Grid for Free](https://scrimba.com/g/gR8PTE)
     - [CSS Grid Changes EVERYTHING](https://www.youtube.com/watch?v=7kVeCqQCxlk)
+    - [Learn CSS Flexbox for Free](https://scrimba.com/g/gflexbox)
+    - [Demystifying CSS Alignment](https://medium.com/@patrickbrosset/demystifying-css-alignment-2d3ea7a02a36)
+    - [Bootstrap to CSS Grid](https://open.nytimes.com/bootstrap-to-css-grid-87b3f5f830e4)
+
 
 ## General Programming
 - [Video Tutorials](#video-tutorials)
