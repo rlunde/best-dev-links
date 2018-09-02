@@ -115,6 +115,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [20 Python libraries you aren't using, but should](https://www.oreilly.com/learning/20-python-libraries-you-arent-using-but-should)
     - [A Python Import Tutorial for Beginners](https://www.codementor.io/sheena/python-path-virtualenv-import-for-beginners-du107r3o1)
     - [Learn Functional Python in 10 Minutes](https://hackernoon.com/learn-functional-python-in-10-minutes-to-2d1651dece6f)
+    - [The Best Way To Learn Python](https://medium.com/@jsonmez/the-best-way-to-learn-python-2618ef7bc18)
 
 - [Online Classes]
     - [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
