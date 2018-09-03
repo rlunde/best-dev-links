@@ -97,6 +97,13 @@ A curated list of my favorite online video and blog tutorials for developers
 - [Projects]
     - [React Native for MacOS](https://github.com/ptmt/react-native-macos)
 
+### React Router
+- [Documentation]
+    - [React Training / React Router](https://reacttraining.com/react-router/web/guides/philosophy)
+- [Tutorials]
+    - [A Simple React Router v4 Tutorial](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf)
+    - [React Router v4: The Complete Guide](https://www.sitepoint.com/react-router-v4-complete-guide/)
+
 ### Redux
 - [Add Redux To A React App](https://code.likeagirl.io/tutorial-for-adding-redux-to-a-react-app-1a94cc1738e5)
 - [Video Tutorials]
