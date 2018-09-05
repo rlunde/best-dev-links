@@ -123,6 +123,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [A Python Import Tutorial for Beginners](https://www.codementor.io/sheena/python-path-virtualenv-import-for-beginners-du107r3o1)
     - [Learn Functional Python in 10 Minutes](https://hackernoon.com/learn-functional-python-in-10-minutes-to-2d1651dece6f)
     - [The Best Way To Learn Python](https://medium.com/@jsonmez/the-best-way-to-learn-python-2618ef7bc18)
+    - [Optimizing Python - a Case Study](https://www.airpair.com/python/posts/optimizing-python-code)
 
 - [Online Classes]
     - [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
