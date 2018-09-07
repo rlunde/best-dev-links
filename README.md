@@ -66,6 +66,10 @@ A curated list of my favorite online video and blog tutorials for developers
 ## Git
 - [Blogs]
     - [How To Find Stuff In Git](https://medium.com/@tygertec/how-to-find-stuff-in-git-35d4cb8c1845)
+- [Documentation]
+    - [Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+- [Interactive Learning]
+    - [Learn Git Branching](https://learngitbranching.js.org/)
 
 ## Go
 - [Videos]
