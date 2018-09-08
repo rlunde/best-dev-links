@@ -80,6 +80,9 @@ A curated list of my favorite online video and blog tutorials for developers
 ## JavaScript
 - [Blogs]
     - [Learn ES6 The Dope Way](https://medium.freecodecamp.org/learn-es6-the-dope-way-i-const-let-var-ae828580472b)
+    - [The Definitive Guide to JavaScript Dates](https://flaviocopes.com/javascript-dates)
+    - [The Most Popular JavaScript Links of 2017](https://medium.com/dailyjs/the-most-popular-javascript-links-of-2017-e4616e8b48c7)
+    - [Top JavaScript Libraries and Tech To Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)
 
 ### React
 - [Online Classes]
