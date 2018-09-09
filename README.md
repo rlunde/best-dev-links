@@ -83,6 +83,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [The Definitive Guide to JavaScript Dates](https://flaviocopes.com/javascript-dates)
     - [The Most Popular JavaScript Links of 2017](https://medium.com/dailyjs/the-most-popular-javascript-links-of-2017-e4616e8b48c7)
     - [Top JavaScript Libraries and Tech To Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)
+    - [How JavaScript Works (series)](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
 
 ### React
 - [Online Classes]
