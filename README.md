@@ -84,6 +84,8 @@ A curated list of my favorite online video and blog tutorials for developers
     - [The Most Popular JavaScript Links of 2017](https://medium.com/dailyjs/the-most-popular-javascript-links-of-2017-e4616e8b48c7)
     - [Top JavaScript Libraries and Tech To Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)
     - [How JavaScript Works (series)](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
+    - [JavaScript Testing](https://www.sitepoint.com/javascript-testing-unit-functional-integration/)
+
 
 ### React
 - [Online Classes]
@@ -121,6 +123,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Getting Started With Redux (by Dan Abramov)](https://egghead.io/courses/getting-started-with-redux)
 - [Blogs]
     - [Build your first React Redux Application](https://codepen.io/allanpope/post/build-react-redux-component)
+    - [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44)
 - [Examples]
     - [TodoMVC react/redux example](https://github.com/reduxjs/redux/tree/master/examples/todomvc)
     - [Async react/redux example](https://github.com/reduxjs/redux/tree/master/examples/async)
