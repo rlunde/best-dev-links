@@ -86,6 +86,11 @@ A curated list of my favorite online video and blog tutorials for developers
     - [How JavaScript Works (series)](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
     - [JavaScript Testing](https://www.sitepoint.com/javascript-testing-unit-functional-integration/)
 
+### Node
+- [Blogs]
+    - [Learn Node.js with Brigadier Fluffykins](https://medium.freecodecamp.org/learn-node-js-with-brigadier-fluffykins-i-basics-async-sync-create-your-first-server-b9e54a45e108)
+    - [Getting off the ground with Express.js](https://medium.freecodecamp.org/getting-off-the-ground-with-expressjs-89ada7ef4e59)
+
 
 ### React
 - [Online Classes]
