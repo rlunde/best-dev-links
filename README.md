@@ -90,6 +90,10 @@ A curated list of my favorite online video and blog tutorials for developers
 - [Blogs]
     - [Learn Node.js with Brigadier Fluffykins](https://medium.freecodecamp.org/learn-node-js-with-brigadier-fluffykins-i-basics-async-sync-create-your-first-server-b9e54a45e108)
     - [Getting off the ground with Express.js](https://medium.freecodecamp.org/getting-off-the-ground-with-expressjs-89ada7ef4e59)
+    - [Why The Hell Would You Use Node.js](https://medium.com/the-node-js-collection/why-the-hell-would-you-use-node-js-4b053b94ab8e)
+- [Books]
+    - [The Definitive Node.js Handbook](https://www.freecodecamp.org/news/quincylarson/node-js-handbook--rSaL0lP34)
+
 
 
 ### React
