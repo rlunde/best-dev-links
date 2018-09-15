@@ -85,6 +85,8 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Top JavaScript Libraries and Tech To Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)
     - [How JavaScript Works (series)](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
     - [JavaScript Testing](https://www.sitepoint.com/javascript-testing-unit-functional-integration/)
+    - [10 Priceless Resources for JavaScript Developers](https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e)
+    - [12 Books Every JavaScript Developer Should Read](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3)
 
 ### Node
 - [Blogs]
