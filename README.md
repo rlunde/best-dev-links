@@ -92,6 +92,9 @@ A curated list of my favorite online video and blog tutorials for developers
     - [10 Priceless Resources for JavaScript Developers](https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e)
     - [12 Books Every JavaScript Developer Should Read](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3)
 
+- [Interactive Learning]
+    - [CheckIO](https://js.checkio.org/)
+
 ### Node
 - [Blogs]
     - [Learn Node.js with Brigadier Fluffykins](https://medium.freecodecamp.org/learn-node-js-with-brigadier-fluffykins-i-basics-async-sync-create-your-first-server-b9e54a45e108)
@@ -156,6 +159,9 @@ A curated list of my favorite online video and blog tutorials for developers
 
 - [Online Books]
     - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+
+- [Interactive Learning]
+    - [CheckIO](https://py.checkio.org/)
 
 ## Ruby
 - [Interactive Learning]
