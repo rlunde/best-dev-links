@@ -44,6 +44,10 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Utilities](#utilities)
 
 ## CSS
+- [Blogs]
+    - [10 Principles for Smooth Web Animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29?imm_mid=0ea80e
+    )
+    - [11 Things I Learned Reading the Flexbox Spec](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
 - [Video Tutorials](#css-video-tutorials)
     - [Learn CSS Grid for Free](https://scrimba.com/g/gR8PTE)
     - [CSS Grid Changes EVERYTHING](https://www.youtube.com/watch?v=7kVeCqQCxlk)
