@@ -146,6 +146,11 @@ A curated list of my favorite online video and blog tutorials for developers
     - [TodoMVC react/redux example](https://github.com/reduxjs/redux/tree/master/examples/todomvc)
     - [Async react/redux example](https://github.com/reduxjs/redux/tree/master/examples/async)
 
+## Machine Learning
+- [Videos]
+    - [Intro to Machine Learning (MIT)](https://www.youtube.com/watch?v=h0e2HAPTGF4)
+    - [But what *is* a Neural Network? | Deep learning, chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
+    
 ## Python
 - [Blogs]
     - [20 Python libraries you aren't using, but should](https://www.oreilly.com/learning/20-python-libraries-you-arent-using-but-should)
