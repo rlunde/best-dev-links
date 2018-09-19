@@ -55,6 +55,12 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Demystifying CSS Alignment](https://medium.com/@patrickbrosset/demystifying-css-alignment-2d3ea7a02a36)
     - [Bootstrap to CSS Grid](https://open.nytimes.com/bootstrap-to-css-grid-87b3f5f830e4)
 
+## D3
+- [Blogs]
+    - [An A-to-Z of Extra Features to D3 Force Layout (v3)](http://www.coppelia.io/2014/07/an-a-to-z-of-extra-features-for-the-d3-force-layout/)
+- [Documentation]
+    - [d3-shape](https://github.com/d3/d3-shape)
+
 
 ## General Programming
 - [Video Tutorials](#video-tutorials)
@@ -150,7 +156,7 @@ A curated list of my favorite online video and blog tutorials for developers
 - [Videos]
     - [Intro to Machine Learning (MIT)](https://www.youtube.com/watch?v=h0e2HAPTGF4)
     - [But what *is* a Neural Network? | Deep learning, chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
-    
+
 ## Python
 - [Blogs]
     - [20 Python libraries you aren't using, but should](https://www.oreilly.com/learning/20-python-libraries-you-arent-using-but-should)
