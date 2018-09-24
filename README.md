@@ -68,6 +68,7 @@ A curated list of my favorite online video and blog tutorials for developers
 - [Video Tutorials](#video-tutorials)
     - [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
     - [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+    - [The 10 Best Web Development YouTube Channels](https://www.thebalancecareers.com/the-10-best-web-development-youtube-channels-2071397)
 - [Online Classes and Tutorials]
     - [CodeAcademy](https://www.codecademy.com/learn)
     - [Coursera (not just coding -- everything)](https://www.coursera.org/)
@@ -107,6 +108,10 @@ A curated list of my favorite online video and blog tutorials for developers
 
 - [Interactive Learning]
     - [CheckIO](https://js.checkio.org/)
+
+- [Modules]
+    - [Axios: Promise based HTTP client for the browser and node.js](https://github.com/axios/axios)
+
 
 ### Node
 - [Blogs]
