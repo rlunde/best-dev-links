@@ -45,9 +45,9 @@ A curated list of my favorite online video and blog tutorials for developers
 
 ## CSS
 - [Blogs]
-    - [10 Principles for Smooth Web Animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29?imm_mid=0ea80e
-    )
+    - [10 Principles for Smooth Web Animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29?imm_mid=0ea80e)
     - [11 Things I Learned Reading the Flexbox Spec](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
+    - [CSS3 Transitions](https://www.smashingmagazine.com/2013/04/css3-transitions-thank-god-specification/)
 - [Interactive]
     - [Grid Garden - a Game for Learning CSS Grid](https://cssgridgarden.com/)
 - [Video Tutorials](#css-video-tutorials)
@@ -109,6 +109,9 @@ A curated list of my favorite online video and blog tutorials for developers
 - [Interactive Learning]
     - [CheckIO](https://js.checkio.org/)
 
+- [Interactive Examples / Testing]
+    - [5 Best Online Front-End Web Development Playgrounds](https://www.technotification.com/2018/08/online-front-end-web-development-playgrounds.html)
+
 - [Modules]
     - [Axios: Promise based HTTP client for the browser and node.js](https://github.com/axios/axios)
 
@@ -135,6 +138,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [9 Things Every React.js Beginner Should Know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know)
     - [10 React Mini-Patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5)
     - [AJAX Requests in React: How and Where to Fetch Data](https://daveceddia.com/ajax-requests-in-react/)
+    - [Using Cookies with React, Redux and React Router 4](https://medium.com/@rossbulat/using-cookies-in-react-redux-and-react-router-4-f5f6079905dc)
 
 ### React Native
 - [Documentation]
