@@ -48,6 +48,9 @@ A curated list of my favorite online video and blog tutorials for developers
     - [10 Principles for Smooth Web Animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29?imm_mid=0ea80e)
     - [11 Things I Learned Reading the Flexbox Spec](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
     - [CSS3 Transitions](https://www.smashingmagazine.com/2013/04/css3-transitions-thank-god-specification/)
+    - [From Bootstrap to CSS Grid](https://open.nytimes.com/bootstrap-to-css-grid-87b3f5f830e4)
+    - [CSS Grid vs Flexbox](https://tutorialzine.com/2017/03/css-grid-vs-flexbox)
+    - [How to easily build Mashable’s navigation bar with HTML and CSS](https://medium.freecodecamp.org/how-to-easily-build-mashables-navigation-bar-with-html-and-css-9e5007af786)
 - [Interactive]
     - [Grid Garden - a Game for Learning CSS Grid](https://cssgridgarden.com/)
 - [Video Tutorials](#css-video-tutorials)
