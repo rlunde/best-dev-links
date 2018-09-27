@@ -47,6 +47,7 @@ A curated list of my favorite online video and blog tutorials for developers
 - [Blogs]
     - [10 Principles for Smooth Web Animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29?imm_mid=0ea80e)
     - [11 Things I Learned Reading the Flexbox Spec](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
+    - [Flexbox: How Big Is That Flexible Box?](https://www.smashingmagazine.com/2018/09/flexbox-sizing-flexible-box/)
     - [CSS3 Transitions](https://www.smashingmagazine.com/2013/04/css3-transitions-thank-god-specification/)
     - [From Bootstrap to CSS Grid](https://open.nytimes.com/bootstrap-to-css-grid-87b3f5f830e4)
     - [CSS Grid vs Flexbox](https://tutorialzine.com/2017/03/css-grid-vs-flexbox)
