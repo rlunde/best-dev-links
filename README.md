@@ -96,6 +96,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Go Performance Tuning](https://stackimpact.com/docs/go-performance-tuning/)
     - [Go Sats WAT](https://about.sourcegraph.com/go/gophercon-2018-go-says-wat/)
     - [Go Performance Tuning](https://stackimpact.com/docs/go-performance-tuning/)
+    - [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
 
 
 ## JavaScript
