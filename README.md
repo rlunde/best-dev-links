@@ -186,6 +186,9 @@ A curated list of my favorite online video and blog tutorials for developers
     - [The Best Way To Learn Python](https://medium.com/@jsonmez/the-best-way-to-learn-python-2618ef7bc18)
     - [Optimizing Python - a Case Study](https://www.airpair.com/python/posts/optimizing-python-code)
 
+- [Frameworks]
+    - [Flask (web development)](http://flask.pocoo.org/)
+
 - [Online Classes]
     - [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
 
@@ -198,3 +201,4 @@ A curated list of my favorite online video and blog tutorials for developers
 ## Ruby
 - [Interactive Learning]
     - [Try Ruby](https://ruby.github.io/TryRuby/)
+    - [Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
