@@ -202,3 +202,7 @@ A curated list of my favorite online video and blog tutorials for developers
 - [Interactive Learning]
     - [Try Ruby](https://ruby.github.io/TryRuby/)
     - [Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
+
+- [Blogs]
+    - [Awesome Ruby](https://awesome-ruby.com/)
+    - [Idiosyncratic Ruby](https://idiosyncratic-ruby.com/)
