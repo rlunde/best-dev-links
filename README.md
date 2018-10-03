@@ -52,6 +52,9 @@ A curated list of my favorite online video and blog tutorials for developers
     - [From Bootstrap to CSS Grid](https://open.nytimes.com/bootstrap-to-css-grid-87b3f5f830e4)
     - [CSS Grid vs Flexbox](https://tutorialzine.com/2017/03/css-grid-vs-flexbox)
     - [How to easily build Mashable’s navigation bar with HTML and CSS](https://medium.freecodecamp.org/how-to-easily-build-mashables-navigation-bar-with-html-and-css-9e5007af786)
+    - [Introduction to CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
+    - [CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
+    - [CSS Layout Cookbook](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook)
 - [Interactive]
     - [Grid Garden - a Game for Learning CSS Grid](https://cssgridgarden.com/)
 - [Video Tutorials](#css-video-tutorials)
