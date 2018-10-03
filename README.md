@@ -119,6 +119,7 @@ A curated list of my favorite online video and blog tutorials for developers
 
 - [Modules]
     - [Axios: Promise based HTTP client for the browser and node.js](https://github.com/axios/axios)
+    - [Lodash](https://lodash.com/)
 
 
 ### Node
