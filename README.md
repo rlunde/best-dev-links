@@ -113,6 +113,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [10 Priceless Resources for JavaScript Developers](https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e)
     - [12 Books Every JavaScript Developer Should Read](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3)
     - [Master the JavaScript Interview: What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
+    - [11 Great JavaScript Utility Libraries](https://blog.bitsrc.io/11-javascript-utility-libraries-you-should-know-in-2018-3646fb31ade)
 
 - [Interactive Learning]
     - [CheckIO](https://js.checkio.org/)
