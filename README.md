@@ -96,10 +96,13 @@ A curated list of my favorite online video and blog tutorials for developers
     - [High Performance Go / Dave Cheney](https://www.youtube.com/watch?v=ADT25tuAx4A)
     - [Concurrency is not Parallelism / Rob Pike](https://www.youtube.com/watch?v=cN_DpYBzKso)
 - [Blogs]
+    - [Learn Go Programming](https://blog.learngoprogramming.com/)
     - [Go Performance Tuning](https://stackimpact.com/docs/go-performance-tuning/)
     - [Go Sats WAT](https://about.sourcegraph.com/go/gophercon-2018-go-says-wat/)
     - [Go Performance Tuning](https://stackimpact.com/docs/go-performance-tuning/)
     - [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
+    - [Go on Reddit](https://www.reddit.com/r/golang/)
+    - [Golang Code (snippets)](https://golangcode.com/)
 
 
 ## JavaScript
