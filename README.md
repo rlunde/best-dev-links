@@ -57,12 +57,13 @@ A curated list of my favorite online video and blog tutorials for developers
     - [CSS Layout Cookbook](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook)
 - [Interactive]
     - [Grid Garden - a Game for Learning CSS Grid](https://cssgridgarden.com/)
-- [Video Tutorials](#css-video-tutorials)
+- [Video Tutorials]
     - [Learn CSS Grid for Free](https://scrimba.com/g/gR8PTE)
     - [CSS Grid Changes EVERYTHING](https://www.youtube.com/watch?v=7kVeCqQCxlk)
     - [Learn CSS Flexbox for Free](https://scrimba.com/g/gflexbox)
     - [Demystifying CSS Alignment](https://medium.com/@patrickbrosset/demystifying-css-alignment-2d3ea7a02a36)
     - [Bootstrap to CSS Grid](https://open.nytimes.com/bootstrap-to-css-grid-87b3f5f830e4)
+    - [CSS Positioning](https://www.youtube.com/watch?v=wmAP2xvNs08&index=5&list=PLJfuCgOIQqVo16HHk4gxVJ24un_WodT_p&t=0s)
 
 ## D3
 - [Blogs]
@@ -72,6 +73,7 @@ A curated list of my favorite online video and blog tutorials for developers
 - [Documentation]
     - [d3-shape](https://github.com/d3/d3-shape)
     - [D3 Wiki](https://github.com/d3/d3/wiki)
+    - [Geographic D3](https://d3indepth.com/geographic/)
 
 - [Books]
     - [D3 Tips and Tricks (for D3 v4)](https://leanpub.com/d3-t-and-t-v4)
