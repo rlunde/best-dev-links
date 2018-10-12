@@ -55,6 +55,8 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Introduction to CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
     - [CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
     - [CSS Layout Cookbook](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook)
+    - [How to View and Edit CSS in Chrome Developer Tools](https://codeburst.io/how-to-view-and-edit-css-in-chrome-developer-tools-ca458a740a06)
+    - [Leveling up in CSS](https://medium.freecodecamp.org/leveling-up-css-44b5045a2667)
 - [Interactive]
     - [Grid Garden - a Game for Learning CSS Grid](https://cssgridgarden.com/)
 - [Video Tutorials]
