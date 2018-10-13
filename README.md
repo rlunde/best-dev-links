@@ -117,6 +117,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
     - [Go on Reddit](https://www.reddit.com/r/golang/)
     - [Golang Code (snippets)](https://golangcode.com/)
+    - [Go 1.11 got me to stop ignoring Go](https://drewdevault.com/2018/10/08/Go-1.11.html)
 
 
 ## JavaScript
@@ -220,6 +221,9 @@ A curated list of my favorite online video and blog tutorials for developers
 
 - [Interactive Learning]
     - [CheckIO](https://py.checkio.org/)
+
+- [Videos]
+    - [Top 10 PyCon Talks](https://realpython.com/must-watch-pycon-talks/)
 
 ## Ruby
 - [Interactive Learning]
