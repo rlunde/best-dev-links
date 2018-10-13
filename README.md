@@ -210,6 +210,7 @@ A curated list of my favorite online video and blog tutorials for developers
 
 - [Frameworks]
     - [Flask (web development)](http://flask.pocoo.org/)
+    - [Creating Web APIs with Python and Flask](https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask)
 
 - [Online Classes]
     - [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
