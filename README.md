@@ -86,6 +86,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
     - [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
     - [The 10 Best Web Development YouTube Channels](https://www.thebalancecareers.com/the-10-best-web-development-youtube-channels-2071397)
+    - [Learn Version Control With Git](*https://www.git-tower.com/learn/git/videos#episodes)
 - [Online Classes and Tutorials]
     - [CodeAcademy](https://www.codecademy.com/learn)
     - [Coursera (not just coding -- everything)](https://www.coursera.org/)
@@ -96,6 +97,7 @@ A curated list of my favorite online video and blog tutorials for developers
 ## Git
 - [Blogs]
     - [How To Find Stuff In Git](https://medium.com/@tygertec/how-to-find-stuff-in-git-35d4cb8c1845)
+    - [Getting Git Right](https://www.atlassian.com/git)
 - [Documentation]
     - [Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 - [Interactive Learning]
