@@ -18,6 +18,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Containers](#containers)
     - [Continuous Integration](#continuous-integration)
     - [D3](#d3-programming)
+    - [Docker]
     - [Editors](#editors)
     - [Elixir](#elixir-programming)
     - [General Programming](#general-programming)
@@ -80,6 +81,9 @@ A curated list of my favorite online video and blog tutorials for developers
 - [Books]
     - [D3 Tips and Tricks (for D3 v4)](https://leanpub.com/d3-t-and-t-v4)
 
+## Docker
+- [Documentation]
+    - [Docs](https://www.docker.com/)
 
 ## General Programming
 - [Video Tutorials](#video-tutorials)
