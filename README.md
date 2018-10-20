@@ -72,6 +72,7 @@ A curated list of my favorite online video and blog tutorials for developers
 - [Blogs]
     - [An A-to-Z of Extra Features to D3 Force Layout (v3)](http://www.coppelia.io/2014/07/an-a-to-z-of-extra-features-for-the-d3-force-layout/)
     - [Force Directed Graphs with D3 v4](http://www.puzzlr.org/force-graphs-with-d3/)
+    - [Migrating D3 Force Layout to WebAssembly](https://blog.scottlogic.com/2017/10/30/migrating-d3-force-layout-to-webassembly.html)
 
 - [Documentation]
     - [d3-shape](https://github.com/d3/d3-shape)
