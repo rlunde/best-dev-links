@@ -209,6 +209,9 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Async react/redux example](https://github.com/reduxjs/redux/tree/master/examples/async)
 
 ## Machine Learning
+- [Documentation]
+    - [Getting Started With TensorFlow](https://www.tensorflow.org/tutorials/)
+    - [Machine Learning Tutorial for Beginners](https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners)
 - [Videos]
     - [Intro to Machine Learning (MIT)](https://www.youtube.com/watch?v=h0e2HAPTGF4)
     - [But what *is* a Neural Network? | Deep learning, chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
