@@ -58,6 +58,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [CSS Layout Cookbook](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook)
     - [How to View and Edit CSS in Chrome Developer Tools](https://codeburst.io/how-to-view-and-edit-css-in-chrome-developer-tools-ca458a740a06)
     - [Leveling up in CSS](https://medium.freecodecamp.org/leveling-up-css-44b5045a2667)
+    - [The Ultimate Guide to CSS + Cheat Sheets](https://medium.com/level-up-web/the-ultimate-guide-to-css-103b0f883de3)
 - [Interactive]
     - [Grid Garden - a Game for Learning CSS Grid](https://cssgridgarden.com/)
 - [Video Tutorials]
