@@ -206,6 +206,7 @@ A curated list of my favorite online video and blog tutorials for developers
 - [Blogs]
     - [Build your first React Redux Application](https://codepen.io/allanpope/post/build-react-redux-component)
     - [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44)
+    - [React Redux Connect](https://blog.logrocket.com/react-redux-connect-when-and-how-to-use-it-f2a1edab2013)
 - [Examples]
     - [TodoMVC react/redux example](https://github.com/reduxjs/redux/tree/master/examples/todomvc)
     - [Async react/redux example](https://github.com/reduxjs/redux/tree/master/examples/async)
