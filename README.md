@@ -99,6 +99,8 @@ A curated list of my favorite online video and blog tutorials for developers
     - [freeCodeCamp](https://www.freecodecamp.org/)
 - [Coding Games]
     - [Codewars (many languages)](https://www.codewars.com/dashboard)
+- [Notable Tech Blogs]
+    - [Aerotwist (Paul Lewis)](https://aerotwist.com/)
 
 ## Git
 - [Blogs]
