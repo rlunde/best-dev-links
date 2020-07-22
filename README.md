@@ -68,6 +68,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Demystifying CSS Alignment](https://medium.com/@patrickbrosset/demystifying-css-alignment-2d3ea7a02a36)
     - [Bootstrap to CSS Grid](https://open.nytimes.com/bootstrap-to-css-grid-87b3f5f830e4)
     - [CSS Positioning](https://www.youtube.com/watch?v=wmAP2xvNs08&index=5&list=PLJfuCgOIQqVo16HHk4gxVJ24un_WodT_p&t=0s)
+    - [Ten Modern Layouts in 1 Line of CSS](https://www.youtube.com/watch?v=qm0IfG1GyZU&list=PLJfuCgOIQqVo9-uVpxbFJ4MaCDjEnkGHS&index=80&t=349s)
 
 ## D3
 - [Blogs]
