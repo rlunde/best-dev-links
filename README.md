@@ -68,6 +68,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Demystifying CSS Alignment](https://medium.com/@patrickbrosset/demystifying-css-alignment-2d3ea7a02a36)
     - [Bootstrap to CSS Grid](https://open.nytimes.com/bootstrap-to-css-grid-87b3f5f830e4)
     - [CSS Positioning](https://www.youtube.com/watch?v=wmAP2xvNs08&index=5&list=PLJfuCgOIQqVo16HHk4gxVJ24un_WodT_p&t=0s)
+    - [Ten Modern Layouts in 1 Line of CSS](https://www.youtube.com/watch?v=qm0IfG1GyZU&list=PLJfuCgOIQqVo9-uVpxbFJ4MaCDjEnkGHS&index=80&t=349s)
 
 ## D3
 - [Blogs]
@@ -92,7 +93,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
     - [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
     - [The 10 Best Web Development YouTube Channels](https://www.thebalancecareers.com/the-10-best-web-development-youtube-channels-2071397)
-    - [Learn Version Control With Git](*https://www.git-tower.com/learn/git/videos#episodes)
+    - [Learn Version Control With Git](https://www.git-tower.com/learn/git/videos#episodes)
 - [Online Classes and Tutorials]
     - [CodeAcademy](https://www.codecademy.com/learn)
     - [Coursera (not just coding -- everything)](https://www.coursera.org/)
@@ -119,6 +120,8 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Understanding Go Interfaces](https://www.youtube.com/watch?v=F4wUrj6pmSI)
     - [Package Oriented Design](https://www.youtube.com/watch?v=spKM5CyBwJA)
     - [Advanced Testing With Go](https://www.youtube.com/watch?v=8hQG7QlcLBk)
+    - [Go / Golang Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U)
+    - [Go REST API with Mux](https://www.youtube.com/watch?v=SonwZ6MF5BE&list=PLJfuCgOIQqVo9-uVpxbFJ4MaCDjEnkGHS&index=83)
 - [Blogs]
     - [Learn Go Programming](https://blog.learngoprogramming.com/)
     - [Go Performance Tuning](https://stackimpact.com/docs/go-performance-tuning/)
