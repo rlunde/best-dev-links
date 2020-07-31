@@ -93,7 +93,6 @@ A curated list of my favorite online video and blog tutorials for developers
     - [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
     - [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
     - [The 10 Best Web Development YouTube Channels](https://www.thebalancecareers.com/the-10-best-web-development-youtube-channels-2071397)
-    - [Learn Version Control With Git](https://www.git-tower.com/learn/git/videos#episodes)
 - [Online Classes and Tutorials]
     - [CodeAcademy](https://www.codecademy.com/learn)
     - [Coursera (not just coding -- everything)](https://www.coursera.org/)
@@ -104,6 +103,8 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Aerotwist (Paul Lewis)](https://aerotwist.com/)
 
 ## Git
+- [Video Tutorials](#vieo-tutorials-git)
+    - [Learn Version Control With Git](https://www.git-tower.com/learn/git/videos#episodes)
 - [Blogs]
     - [How To Find Stuff In Git](https://medium.com/@tygertec/how-to-find-stuff-in-git-35d4cb8c1845)
     - [Getting Git Right](https://www.atlassian.com/git)
@@ -121,7 +122,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Package Oriented Design](https://www.youtube.com/watch?v=spKM5CyBwJA)
     - [Advanced Testing With Go](https://www.youtube.com/watch?v=8hQG7QlcLBk)
     - [Go / Golang Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U)
-    - [Go REST API with Mux](https://www.youtube.com/watch?v=SonwZ6MF5BE&list=PLJfuCgOIQqVo9-uVpxbFJ4MaCDjEnkGHS&index=83)
+    - [Go REST API with Mux](https://www.youtube.com/watch?v=SonwZ6MF5BE)
 - [Blogs]
     - [Learn Go Programming](https://blog.learngoprogramming.com/)
     - [Go Performance Tuning](https://stackimpact.com/docs/go-performance-tuning/)
