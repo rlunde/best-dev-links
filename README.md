@@ -121,6 +121,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Package Oriented Design](https://www.youtube.com/watch?v=spKM5CyBwJA)
     - [Advanced Testing With Go](https://www.youtube.com/watch?v=8hQG7QlcLBk)
     - [Go / Golang Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U)
+    - [Go REST API with Mux](https://www.youtube.com/watch?v=SonwZ6MF5BE&list=PLJfuCgOIQqVo9-uVpxbFJ4MaCDjEnkGHS&index=83)
 - [Blogs]
     - [Learn Go Programming](https://blog.learngoprogramming.com/)
     - [Go Performance Tuning](https://stackimpact.com/docs/go-performance-tuning/)
