@@ -17,7 +17,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Configuration](#configuration)
     - [Containers](#containers)
     - [Continuous Integration](#continuous-integration)
-    - [D3](#d3-programming)
+    - [D3](#d3)
     - [Docker](#docker)
     - [Editors](#editors)
     - [Elixir](#elixir-programming)
@@ -44,7 +44,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Tools](#tools)
     - [Utilities](#utilities)
 
-## CSS [](#css)
+## CSS
 - Blogs 
     - [10 Principles for Smooth Web Animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29?imm_mid=0ea80e)
     - [11 Things I Learned Reading the Flexbox Spec](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
