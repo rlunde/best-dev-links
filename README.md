@@ -261,6 +261,11 @@ A curated list of my favorite online video and blog tutorials for developers
 - Videos
     - [Rust Concurrency Explained](https://www.youtube.com/watch?v=Dbytx0ivH7Q&list=PLJfuCgOIQqVo9-uVpxbFJ4MaCDjEnkGHS&index=74&t=49s)
 
+## Web Design
+- Resources
+    - [Material Design Icons](https://material.io/resources/icons/?style=baseline)
+
 ## YAML
 - Tools
     - [YAML editor/validator for VS Code](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+
