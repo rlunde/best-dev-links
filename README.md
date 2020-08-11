@@ -122,6 +122,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Advanced Testing With Go](https://www.youtube.com/watch?v=8hQG7QlcLBk)
     - [Go / Golang Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U)
     - [Go REST API with Mux](https://www.youtube.com/watch?v=SonwZ6MF5BE)
+    - [The Why of Go](https://www.youtube.com/watch?v=bmZNaUcwBt4)
 - Blogs
     - [Learn Go Programming](https://blog.learngoprogramming.com/)
     - [Go Performance Tuning](https://stackimpact.com/docs/go-performance-tuning/)
@@ -156,6 +157,9 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Axios: Promise based HTTP client for the browser and node.js](https://github.com/axios/axios)
     - [Lodash](https://lodash.com/)
 
+### Java
+- Blogs
+    - [10 Things Java Programmers Should Learn in 2020](https://javarevisited.blogspot.com/2017/12/10-things-java-programmers-should-learn.html#axzz5atl0BngO)
 
 ### Node
 - Blogs
