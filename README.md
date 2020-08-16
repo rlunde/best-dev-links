@@ -101,6 +101,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Codewars (many languages)](https://www.codewars.com/dashboard)
 - Notable Tech Blogs
     - [Aerotwist (Paul Lewis)](https://aerotwist.com/)
+    - [Most Loved, Dreaded, and Wanted Languages](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-loved)
 
 ## Git
 - Video Tutorials
