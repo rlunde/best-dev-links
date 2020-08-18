@@ -254,6 +254,7 @@ A curated list of my favorite online video and blog tutorials for developers
 
 - Videos
     - [Top 10 PyCon Talks](https://realpython.com/must-watch-pycon-talks/)
+    - [Python List Comprehension](https://www.youtube.com/watch?v=E1ZAVEmRwyI)
 
 ## Ruby
 - Interactive Learning
