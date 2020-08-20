@@ -1,48 +1,28 @@
 # Best Dev Links
 A curated list of my favorite online video and blog tutorials for developers
 
-*I'm just getting started on this.*
+# Contents
 
-## Contents
+## General Programming
+- Video Tutorials
+    - [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
+    - [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+    - [The 10 Best Web Development YouTube Channels](https://www.thebalancecareers.com/the-10-best-web-development-youtube-channels-2071397)
+    - [Web Development Roadmap 2020](https://www.youtube.com/watch?v=iogabydg2y0)
+- Online Classes and Tutorials
+    - [CodeAcademy](https://www.codecademy.com/learn)
+    - [Coursera (not just coding -- everything)](https://www.coursera.org/)
+    - [freeCodeCamp](https://www.freecodecamp.org/)
+- Coding Games
+    - [Codewars (many languages)](https://www.codewars.com/dashboard)
+- Notable Tech Blogs
+    - [Aerotwist (Paul Lewis)](https://aerotwist.com/)
+    - [Most Loved, Dreaded, and Wanted Languages](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-loved)
 
-- Best Dev Links
-    - [Architecture](#architecture)
-    - [Authentication and OAuth](#authentication-and-oauth)
-    - [C#](#csharp-programming)
-    - [C++](#cplusplus-programming)
-    - [CSS](#css)
-    - [C](#c-programming)
-    - [Clojure](#clojure-programming)
-    - [Command Line](#command-line)
-    - [Configuration](#configuration)
-    - [Containers](#containers)
-    - [Continuous Integration](#continuous-integration)
-    - [D3](#d3)
-    - [Docker](#docker)
-    - [Editors](#editors)
-    - [Elixir](#elixir-programming)
-    - [General Programming](#general-programming)
-    - [Git](#git)
-    - [Go](#go-programming)
-    - [IoT](#iot-internet-of-things)
-    - [JavaScript](#javascript-programming)
-    - [Java](#java-programming)
-    - [Logging](#logging)
-    - [Machine Learning](#machine-learning)
-    - [Messaging](#messaging)
-    - [Microservices](#microservices)
-    - [Natural Language Processing](#natural-language-processing)
-    - [Networking](#networking)
-    - [Python](#python-programming)
-    - [Query Language](#query-language)
-    - [Ruby](#ruby-programming)
-    - [Science and Data Analysis](#science-and-data-analysis)
-    - [Security](#security)
-    - [Testing](#testing)
-    - [Text Processing](#text-processing)
-    - [Third-party APIs](#third-party-apis)
-    - [Tools](#tools)
-    - [Utilities](#utilities)
+### Data Structures
+    - [A Heap, Implemented in Java](https://www.youtube.com/watch?v=t0Cq6tVNRBA)
+
+### Algorithms
 
 ## CSS
 - Blogs 
@@ -86,22 +66,6 @@ A curated list of my favorite online video and blog tutorials for developers
 ## Docker
 - Documentation
     - [Docs](https://www.docker.com/)
-
-## General Programming
-- Video Tutorials
-    - [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
-    - [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
-    - [The 10 Best Web Development YouTube Channels](https://www.thebalancecareers.com/the-10-best-web-development-youtube-channels-2071397)
-    - [Web Development Roadmap 2020](https://www.youtube.com/watch?v=iogabydg2y0)
-- Online Classes and Tutorials
-    - [CodeAcademy](https://www.codecademy.com/learn)
-    - [Coursera (not just coding -- everything)](https://www.coursera.org/)
-    - [freeCodeCamp](https://www.freecodecamp.org/)
-- Coding Games
-    - [Codewars (many languages)](https://www.codewars.com/dashboard)
-- Notable Tech Blogs
-    - [Aerotwist (Paul Lewis)](https://aerotwist.com/)
-    - [Most Loved, Dreaded, and Wanted Languages](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-loved)
 
 ## Git
 - Video Tutorials
