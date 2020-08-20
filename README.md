@@ -20,6 +20,8 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Most Loved, Dreaded, and Wanted Languages](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-loved)
 
 ### Data Structures
+
+- Video Tutorials
     - [A Heap, Implemented in Java](https://www.youtube.com/watch?v=t0Cq6tVNRBA)
 
 ### Algorithms
