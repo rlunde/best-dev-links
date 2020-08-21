@@ -77,6 +77,8 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Getting Git Right](https://www.atlassian.com/git)
 - Documentation
     - [Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+    - [Badges for GitHub, etc.](https://github.com/badges/shields)
+    - [How To Use GitHub Badges To Stop Feeling Like a Noob](https://www.freecodecamp.org/news/how-to-use-badges-to-stop-feeling-like-a-noob-d4e6600d37d2/)
 - Interactive Learning
     - [Learn Git Branching](https://learngitbranching.js.org/)
 
