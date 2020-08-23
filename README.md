@@ -1,30 +1,7 @@
 # Best Dev Links
 A curated list of my favorite online video and blog tutorials for developers
 
-# Contents
-
-## General Programming
-- Video Tutorials
-    - [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
-    - [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
-    - [The 10 Best Web Development YouTube Channels](https://www.thebalancecareers.com/the-10-best-web-development-youtube-channels-2071397)
-    - [Web Development Roadmap 2020](https://www.youtube.com/watch?v=iogabydg2y0)
-- Online Classes and Tutorials
-    - [CodeAcademy](https://www.codecademy.com/learn)
-    - [Coursera (not just coding -- everything)](https://www.coursera.org/)
-    - [freeCodeCamp](https://www.freecodecamp.org/)
-- Coding Games
-    - [Codewars (many languages)](https://www.codewars.com/dashboard)
-- Notable Tech Blogs
-    - [Aerotwist (Paul Lewis)](https://aerotwist.com/)
-    - [Most Loved, Dreaded, and Wanted Languages](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-loved)
-
-### Data Structures
-
-- Video Tutorials
-    - [A Heap, Implemented in Java](https://www.youtube.com/watch?v=t0Cq6tVNRBA)
-
-### Algorithms
+## Algorithms
 
 ## CSS
 - Blogs 
@@ -65,9 +42,36 @@ A curated list of my favorite online video and blog tutorials for developers
 - Books
     - [D3 Tips and Tricks (for D3 v4)](https://leanpub.com/d3-t-and-t-v4)
 
+## Data Structures
+
+- Video Tutorials
+    - [A Heap, Implemented in Java](https://www.youtube.com/watch?v=t0Cq6tVNRBA)
+
+## Development Tools
+
+- Tools
+    - [Pandoc - universal document converter (e.g. markdown to html)](https://pandoc.org/)
+
 ## Docker
 - Documentation
     - [Docs](https://www.docker.com/)
+
+## General Programming
+- Video Tutorials
+    - [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
+    - [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+    - [The 10 Best Web Development YouTube Channels](https://www.thebalancecareers.com/the-10-best-web-development-youtube-channels-2071397)
+    - [Web Development Roadmap 2020](https://www.youtube.com/watch?v=iogabydg2y0)
+- Online Classes and Tutorials
+    - [CodeAcademy](https://www.codecademy.com/learn)
+    - [Coursera (not just coding -- everything)](https://www.coursera.org/)
+    - [freeCodeCamp](https://www.freecodecamp.org/)
+- Coding Games
+    - [Codewars (many languages)](https://www.codewars.com/dashboard)
+- Notable Tech Blogs
+    - [Aerotwist (Paul Lewis)](https://aerotwist.com/)
+    - [Most Loved, Dreaded, and Wanted Languages](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-loved)
+
 
 ## Git
 - Video Tutorials
@@ -109,6 +113,10 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Ent -- an Entity Framework for Go](https://entgo.io/)
 
 
+## Java
+- Blogs
+    - [10 Things Java Programmers Should Learn in 2020](https://javarevisited.blogspot.com/2017/12/10-things-java-programmers-should-learn.html#axzz5atl0BngO)
+
 ## JavaScript
 - Blogs
     - [Learn ES6 The Dope Way](https://medium.freecodecamp.org/learn-es6-the-dope-way-i-const-let-var-ae828580472b)
@@ -129,12 +137,18 @@ A curated list of my favorite online video and blog tutorials for developers
 - Modules
     - [Axios: Promise based HTTP client for the browser and node.js](https://github.com/axios/axios)
     - [Lodash](https://lodash.com/)
+- Tools
+    - [Bundlephobia - find the cost of adding an NPM module to your project](https://bundlephobia.com/)
 
-### Java
-- Blogs
-    - [10 Things Java Programmers Should Learn in 2020](https://javarevisited.blogspot.com/2017/12/10-things-java-programmers-should-learn.html#axzz5atl0BngO)
+## Machine Learning
+- Documentation
+    - [Getting Started With TensorFlow](https://www.tensorflow.org/tutorials/)
+    - [Machine Learning Tutorial for Beginners](https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners)
+- Videos
+    - [Intro to Machine Learning (MIT)](https://www.youtube.com/watch?v=h0e2HAPTGF4)
+    - [But what *is* a Neural Network? | Deep learning, chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
 
-### Node
+## Node
 - Blogs
     - [Learn Node.js with Brigadier Fluffykins](https://medium.freecodecamp.org/learn-node-js-with-brigadier-fluffykins-i-basics-async-sync-create-your-first-server-b9e54a45e108)
     - [Getting off the ground with Express.js](https://medium.freecodecamp.org/getting-off-the-ground-with-expressjs-89ada7ef4e59)
@@ -142,9 +156,7 @@ A curated list of my favorite online video and blog tutorials for developers
 - Books
     - [The Definitive Node.js Handbook](https://www.freecodecamp.org/news/quincylarson/node-js-handbook--rSaL0lP34)
 
-
-
-### React
+## React
 - Online Classes
     - [Modern React with Redux by Stephen Grider / Udemy](https://www.udemy.com/react-redux)
     - [Building Applications with React and Redux in ES6 by Cory House / Pluralsight](https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents)
@@ -177,7 +189,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [A Simple React Router v4 Tutorial](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf)
     - [React Router v4: The Complete Guide](https://www.sitepoint.com/react-router-v4-complete-guide/)
 
-### Redux
+## Redux
 - [Video Tutorials]
     - [Redux Tutorial #1 - How Redux Works](https://www.youtube.com/watch?v=1w-oQ-i1XB8)
     - [Learn React/Redux in one video](https://www.youtube.com/watch?v=OSSpVLpuVWA)
@@ -191,14 +203,6 @@ A curated list of my favorite online video and blog tutorials for developers
 - Examples
     - [TodoMVC react/redux example](https://github.com/reduxjs/redux/tree/master/examples/todomvc)
     - [Async react/redux example](https://github.com/reduxjs/redux/tree/master/examples/async)
-
-## Machine Learning
-- Documentation
-    - [Getting Started With TensorFlow](https://www.tensorflow.org/tutorials/)
-    - [Machine Learning Tutorial for Beginners](https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners)
-- Videos
-    - [Intro to Machine Learning (MIT)](https://www.youtube.com/watch?v=h0e2HAPTGF4)
-    - [But what *is* a Neural Network? | Deep learning, chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
 
 ## Python
 - Blogs
@@ -230,7 +234,6 @@ A curated list of my favorite online video and blog tutorials for developers
 - Interactive Learning
     - [Try Ruby](https://ruby.github.io/TryRuby/)
     - [Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
-
 - Blogs
     - [Awesome Ruby](https://awesome-ruby.com/)
     - [Idiosyncratic Ruby](https://idiosyncratic-ruby.com/)
