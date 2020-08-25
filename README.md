@@ -109,6 +109,7 @@ A curated list of my favorite online video and blog tutorials for developers
 - Docs
     - [Go 1.9 has concurrent Maps](https://golang.org/pkg/sync/#Map)
     - [All the Go standard packages](https://golang.org/pkg/)
+    - [A Duplicate Function Call Supression Mechanism](https://pkg.go.dev/golang.org/x/sync/singleflight?tab=doc)
 - Tools
     - [Ent -- an Entity Framework for Go](https://entgo.io/)
 
