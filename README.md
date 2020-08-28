@@ -106,6 +106,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Go on Reddit](https://www.reddit.com/r/golang/)
     - [Golang Code (snippets)](https://golangcode.com/)
     - [Go 1.11 got me to stop ignoring Go](https://drewdevault.com/2018/10/08/Go-1.11.html)
+    - [HTTP mocking for Go](https://github.com/jarcoal/httpmock)
 - Docs
     - [Go 1.9 has concurrent Maps](https://golang.org/pkg/sync/#Map)
     - [All the Go standard packages](https://golang.org/pkg/)
