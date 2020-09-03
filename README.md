@@ -141,6 +141,8 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Lodash](https://lodash.com/)
 - Tools
     - [Bundlephobia - find the cost of adding an NPM module to your project](https://bundlephobia.com/)
+- Videos
+    - [Make a Tic-Tac-Toe game in 24 minutes](https://www.youtube.com/watch?v=GTWrWM1UsnA)
 
 ## Machine Learning
 - Documentation
