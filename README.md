@@ -62,6 +62,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
     - [The 10 Best Web Development YouTube Channels](https://www.thebalancecareers.com/the-10-best-web-development-youtube-channels-2071397)
     - [Web Development Roadmap 2020](https://www.youtube.com/watch?v=iogabydg2y0)
+    - [Stacks and Queues](https://www.youtube.com/watch?v=wjI1WNcIntg&t=10s)
 - Online Classes and Tutorials
     - [CodeAcademy](https://www.codecademy.com/learn)
     - [Coursera (not just coding -- everything)](https://www.coursera.org/)
