@@ -74,6 +74,9 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Aerotwist (Paul Lewis)](https://aerotwist.com/)
     - [Most Loved, Dreaded, and Wanted Languages](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-loved)
 
+### Data Structures
+- Video Tutorials
+    - [Heaps](https://www.youtube.com/watch?v=t0Cq6tVNRBA)
 
 ## Git
 - Video Tutorials
