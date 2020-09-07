@@ -69,6 +69,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [freeCodeCamp](https://www.freecodecamp.org/)
 - Coding Games
     - [Codewars (many languages)](https://www.codewars.com/dashboard)
+    - [HackerRank (many languages)](https://www.hackerrank.com/)
 - Notable Tech Blogs
     - [Aerotwist (Paul Lewis)](https://aerotwist.com/)
     - [Most Loved, Dreaded, and Wanted Languages](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-loved)
@@ -112,6 +113,8 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Go 1.9 has concurrent Maps](https://golang.org/pkg/sync/#Map)
     - [All the Go standard packages](https://golang.org/pkg/)
     - [A Duplicate Function Call Supression Mechanism](https://pkg.go.dev/golang.org/x/sync/singleflight?tab=doc)
+- Interactive Learning
+    - [Concurrency in Go](https://tour.golang.org/concurrency/1)
 - Tools
     - [Ent -- an Entity Framework for Go](https://entgo.io/)
 
