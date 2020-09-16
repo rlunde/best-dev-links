@@ -254,6 +254,10 @@ A curated list of my favorite online video and blog tutorials for developers
 - Videos
     - [Rust Concurrency Explained](https://www.youtube.com/watch?v=Dbytx0ivH7Q&list=PLJfuCgOIQqVo9-uVpxbFJ4MaCDjEnkGHS&index=74&t=49s)
 
+## Swift
+- Blogs / Tutorials
+    - [Best Practices to Learn iOS/Swift in 2020](https://theswiftdev.com/what-are-the-best-practices-to-learn-ios-swift-in-2020/)
+
 ## Web Design
 - Resources
     - [Material Design Icons](https://material.io/resources/icons/?style=baseline)
