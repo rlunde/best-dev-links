@@ -189,6 +189,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Material-UI: React Components that Implement Google's Material Design](https://material-ui.com/)
     - [React Belle](https://github.com/nikgraf/belle)
     - [React Grommet](https://v2.grommet.io/)
+    - [React Hooks in Action: Building a Todo App](https://medium.com/@shuvohabib/react-hooks-in-action-building-a-todo-app-hint-no-classes-53e0b4028ba5)
 
 ### React Native
 - Documentation
