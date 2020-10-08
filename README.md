@@ -73,6 +73,7 @@ A curated list of my favorite online video and blog tutorials for developers
 - Notable Tech Blogs
     - [Aerotwist (Paul Lewis)](https://aerotwist.com/)
     - [Most Loved, Dreaded, and Wanted Languages](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-loved)
+    - [Goodbye Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
 
 ### Data Structures
 - Video Tutorials
@@ -142,6 +143,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Master the JavaScript Interview: What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
     - [11 Great JavaScript Utility Libraries](https://blog.bitsrc.io/11-javascript-utility-libraries-you-should-know-in-2018-3646fb31ade)
     - [11 JavaScript Animation Libraries For 2019](https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59)
+    - [Functional JavaScript](https://opensource.com/article/17/6/functional-javascript)
 - Interactive Learning
     - [CheckIO](https://js.checkio.org/)
 - Interactive Examples / Testing
