@@ -3,6 +3,10 @@ A curated list of my favorite online video and blog tutorials for developers
 
 ## Algorithms
 
+## AWS
+- Tutorials
+    - [Hands On Getting Started Tutorials](https://aws.amazon.com/getting-started/hands-on/)
+
 ## CSS
 - Blogs 
     - [10 Principles for Smooth Web Animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29?imm_mid=0ea80e)
