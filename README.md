@@ -196,6 +196,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [React Belle](https://github.com/nikgraf/belle)
     - [React Grommet](https://v2.grommet.io/)
     - [React Hooks in Action: Building a Todo App](https://medium.com/@shuvohabib/react-hooks-in-action-building-a-todo-app-hint-no-classes-53e0b4028ba5)
+    - [How to Build Faster with Reusable UI Components in React](https://codeburst.io/how-to-build-faster-with-reusable-ui-components-in-react-482397dec818)
 
 ### React Native
 - Documentation
