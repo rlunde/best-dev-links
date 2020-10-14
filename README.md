@@ -118,6 +118,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Go 1.11 got me to stop ignoring Go](https://drewdevault.com/2018/10/08/Go-1.11.html)
     - [HTTP mocking for Go](https://github.com/jarcoal/httpmock)
     - [Defer, Panic, and Recover](https://blog.golang.org/defer-panic-and-recover)
+    - [Debugging with Delve](https://tpaschalis.github.io/delve-debugging/)
 - Docs
     - [Go 1.9 has concurrent Maps](https://golang.org/pkg/sync/#Map)
     - [All the Go standard packages](https://golang.org/pkg/)
@@ -196,6 +197,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [React Belle](https://github.com/nikgraf/belle)
     - [React Grommet](https://v2.grommet.io/)
     - [React Hooks in Action: Building a Todo App](https://medium.com/@shuvohabib/react-hooks-in-action-building-a-todo-app-hint-no-classes-53e0b4028ba5)
+    - [How to Build Faster with Reusable UI Components in React](https://codeburst.io/how-to-build-faster-with-reusable-ui-components-in-react-482397dec818)
 
 ### React Native
 - Documentation
