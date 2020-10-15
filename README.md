@@ -130,6 +130,10 @@ A curated list of my favorite online video and blog tutorials for developers
 - Tools
     - [Ent -- an Entity Framework for Go](https://entgo.io/)
 
+## Humor
+- Satirical Code
+  - [FizzBuzz, Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
+
 
 ## Java
 - Blogs
