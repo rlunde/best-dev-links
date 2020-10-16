@@ -157,6 +157,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [CheckIO](https://js.checkio.org/)
 - Interactive Examples / Testing
     - [5 Best Online Front-End Web Development Playgrounds](https://www.technotification.com/2018/08/online-front-end-web-development-playgrounds.html)
+    - [ES6 Destructuring: The Complete Guide](https://codeburst.io/es6-destructuring-the-complete-guide-7f842d08b98f)
 - Modules
     - [Axios: Promise based HTTP client for the browser and node.js](https://github.com/axios/axios)
     - [Lodash](https://lodash.com/)
