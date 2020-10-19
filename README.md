@@ -268,6 +268,8 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Idiosyncratic Ruby](https://idiosyncratic-ruby.com/)
 - Videos
     - [Ruby On Rails Tutorial](https://www.youtube.com/watch?v=GY7Ps8fqGdc)
+- Podcasts
+    - [React On Rails](https://devchat.tv/ruby-rogues/rr-474-react-on-rails-v12-dont-shave-that-yak-with-justin-gordon/)
 
 ## Rust
 - Videos
