@@ -107,6 +107,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Go / Golang Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U)
     - [Go REST API with Mux](https://www.youtube.com/watch?v=SonwZ6MF5BE)
     - [The Why of Go](https://www.youtube.com/watch?v=bmZNaUcwBt4)
+    - [Unit Testing HTTP servers](https://www.youtube.com/watch?v=hVFEV-ieeew)
 - Blogs
     - [Learn Go Programming](https://blog.learngoprogramming.com/)
     - [Go Performance Tuning](https://stackimpact.com/docs/go-performance-tuning/)
