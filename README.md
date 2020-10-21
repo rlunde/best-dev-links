@@ -126,6 +126,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [A Duplicate Function Call Supression Mechanism](https://pkg.go.dev/golang.org/x/sync/singleflight?tab=doc)
     - [Go By Example](https://github.com/mmcgrana/gobyexample)
     - [The Ultimate Go Study Guide](https://github.com/hoanhan101/ultimate-go)
+    - [Effective Go](https://golang.org/doc/effective_go.html)
 - Interactive Learning
     - [Concurrency in Go](https://tour.golang.org/concurrency/1)
 - Tools
