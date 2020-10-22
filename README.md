@@ -127,6 +127,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Go By Example](https://github.com/mmcgrana/gobyexample)
     - [The Ultimate Go Study Guide](https://github.com/hoanhan101/ultimate-go)
     - [Effective Go](https://golang.org/doc/effective_go.html)
+    - [Build Go Projects with GitHub Actions](https://sosedoff.com/2019/02/12/go-github-actions.html)
 - Interactive Learning
     - [Concurrency in Go](https://tour.golang.org/concurrency/1)
 - Tools
