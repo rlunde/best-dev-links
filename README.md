@@ -157,6 +157,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [11 JavaScript Animation Libraries For 2019](https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59)
     - [Functional JavaScript](https://opensource.com/article/17/6/functional-javascript)
     - [JavaScript - Demystifying Promises](https://medium.com/weekly-webtips/javascript-demystifying-promises-b43c746ae35f)
+    - [ES2020 with Examples](https://medium.com/better-programming/javascript-es2020-features-with-simple-examples-d301dbef2c37)
 - Interactive Learning
     - [CheckIO](https://js.checkio.org/)
 - Interactive Examples / Testing
