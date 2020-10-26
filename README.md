@@ -275,6 +275,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Ruby On Rails Tutorial](https://www.youtube.com/watch?v=GY7Ps8fqGdc)
 - Podcasts
     - [React On Rails](https://devchat.tv/ruby-rogues/rr-474-react-on-rails-v12-dont-shave-that-yak-with-justin-gordon/)
+    - [Ruby On Rails Podcast](http://5by5.tv/rubyonrails/340)
 
 ## Rust
 - Videos
