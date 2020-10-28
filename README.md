@@ -132,6 +132,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Concurrency in Go](https://tour.golang.org/concurrency/1)
 - Tools
     - [Ent -- an Entity Framework for Go](https://entgo.io/)
+    - [Tools, Examples, etc. for making Go AWS Lambdas](https://github.com/aws/aws-lambda-go)
 
 ## Humor
 - Satirical Code
