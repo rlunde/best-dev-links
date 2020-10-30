@@ -43,6 +43,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [d3-shape](https://github.com/d3/d3-shape)
     - [D3 Wiki](https://github.com/d3/d3/wiki)
     - [Geographic D3](https://d3indepth.com/geographic/)
+    - [D3 in Depth](https://www.d3indepth.com/)
 - Books
     - [D3 Tips and Tricks (for D3 v4)](https://leanpub.com/d3-t-and-t-v4)
 
