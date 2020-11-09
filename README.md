@@ -129,6 +129,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [The Ultimate Go Study Guide](https://github.com/hoanhan101/ultimate-go)
     - [Effective Go](https://golang.org/doc/effective_go.html)
     - [Build Go Projects with GitHub Actions](https://sosedoff.com/2019/02/12/go-github-actions.html)
+    - [Getting Started with Cloud Spanner in Go](https://cloud.google.com/spanner/docs/getting-started/go)
 - Interactive Learning
     - [Concurrency in Go](https://tour.golang.org/concurrency/1)
 - Tools
