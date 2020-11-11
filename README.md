@@ -264,6 +264,9 @@ A curated list of my favorite online video and blog tutorials for developers
 - Interactive Learning
     - [CheckIO](https://py.checkio.org/)
 
+- Docs
+    - [Map, Filter, and Reduce on learnpython.org](https://www.learnpython.org/en/Map,_Filter,_Reduce)
+
 - Videos
     - [Top 10 PyCon Talks](https://realpython.com/must-watch-pycon-talks/)
     - [Python List Comprehension](https://www.youtube.com/watch?v=E1ZAVEmRwyI)
