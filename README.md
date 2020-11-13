@@ -183,6 +183,7 @@ A curated list of my favorite online video and blog tutorials for developers
 - Videos
     - [Intro to Machine Learning (MIT)](https://www.youtube.com/watch?v=h0e2HAPTGF4)
     - [But what *is* a Neural Network? | Deep learning, chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
+    - [Python Machine Learning Tutorial w/ Scikit Learn](https://www.youtube.com/watch?v=M9Itm95JzL0&list=WL&index=1)
 
 ## Node
 - Blogs
