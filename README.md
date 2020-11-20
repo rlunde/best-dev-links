@@ -60,6 +60,8 @@ A curated list of my favorite online video and blog tutorials for developers
 ## Docker
 - Documentation
     - [Docs](https://www.docker.com/)
+- Blogs
+    - [Getting Started With Anaconda and Docker](https://medium.com/@patrickmichelberger/getting-started-with-anaconda-docker-b50a2c482139)
 
 ## General Programming
 - Video Tutorials
