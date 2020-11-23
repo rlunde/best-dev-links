@@ -280,6 +280,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Python List Comprehension](https://www.youtube.com/watch?v=E1ZAVEmRwyI)
     - [Intermediate Python Series](https://www.youtube.com/watch?v=YSe9Tu_iNQQ&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_)
     - [Intermediate Python Programming Course in 6 hours](https://www.youtube.com/watch?v=HGOBQPFzWKo)
+    - [Real-World Python Machine Learning Tutorial w/ Scikit Learn](https://www.youtube.com/watch?v=M9Itm95JzL0&list=WL&index=1)
 
 ## Ruby
 - Interactive Learning
