@@ -86,6 +86,10 @@ A curated list of my favorite online video and blog tutorials for developers
 - Video Tutorials
     - [Heaps](https://www.youtube.com/watch?v=t0Cq6tVNRBA)
 
+### Elastic Search
+- Video Courses
+    - [LinkedIn Learning: ElasticSearch Essential Training](https://www.linkedin.com/learning/elasticsearch-essential-training)
+
 ## Git
 - Video Tutorials
     - [Learn Version Control With Git](https://www.git-tower.com/learn/git/videos#episodes)
