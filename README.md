@@ -127,6 +127,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [HTTP mocking for Go](https://github.com/jarcoal/httpmock)
     - [Defer, Panic, and Recover](https://blog.golang.org/defer-panic-and-recover)
     - [Debugging with Delve](https://tpaschalis.github.io/delve-debugging/)
+    - [Microservices in Go](https://ewanvalentine.io/microservices-in-golang-part-1/)
 - Docs
     - [Go 1.9 has concurrent Maps](https://golang.org/pkg/sync/#Map)
     - [All the Go standard packages](https://golang.org/pkg/)
@@ -287,6 +288,8 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Intermediate Python Series](https://www.youtube.com/watch?v=YSe9Tu_iNQQ&list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_)
     - [Intermediate Python Programming Course in 6 hours](https://www.youtube.com/watch?v=HGOBQPFzWKo)
     - [Real-World Python Machine Learning Tutorial w/ Scikit Learn](https://www.youtube.com/watch?v=M9Itm95JzL0&list=WL&index=1)
+    - [Python Machine learning with SKLearn Tutorial for Investing](https://www.youtube.com/watch?v=URTZ2jKCgBc&list=PLQVvvaa0QuDd0flgGphKCej-9jp-QdzZ3)
+    - [Tutorial: scikit-learn - Machine Learning in Python](https://www.youtube.com/watch?v=cHZONQ2-x7I)
 
 ## Ruby
 - Interactive Learning
