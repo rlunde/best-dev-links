@@ -127,6 +127,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [HTTP mocking for Go](https://github.com/jarcoal/httpmock)
     - [Defer, Panic, and Recover](https://blog.golang.org/defer-panic-and-recover)
     - [Debugging with Delve](https://tpaschalis.github.io/delve-debugging/)
+    - [Microservices in Go](https://ewanvalentine.io/microservices-in-golang-part-1/)
 - Docs
     - [Go 1.9 has concurrent Maps](https://golang.org/pkg/sync/#Map)
     - [All the Go standard packages](https://golang.org/pkg/)
