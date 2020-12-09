@@ -137,6 +137,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Effective Go](https://golang.org/doc/effective_go.html)
     - [Build Go Projects with GitHub Actions](https://sosedoff.com/2019/02/12/go-github-actions.html)
     - [Getting Started with Cloud Spanner in Go](https://cloud.google.com/spanner/docs/getting-started/go)
+    - [Awesome Go](https://awesome-go.com/)
 - Interactive Learning
     - [Concurrency in Go](https://tour.golang.org/concurrency/1)
 - Tools
@@ -179,6 +180,8 @@ A curated list of my favorite online video and blog tutorials for developers
 - Tools
     - [Bundlephobia - find the cost of adding an NPM module to your project](https://bundlephobia.com/)
     - [How to Bundle a Simple Static Site Using Webpack](https://www.sitepoint.com/bundle-static-site-webpack/)
+    - [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
+    - [More Awesome Javascript](https://github.com/uhub/awesome-javascript)
 - Videos
     - [Make a Tic-Tac-Toe game in 24 minutes](https://www.youtube.com/watch?v=GTWrWM1UsnA)
     - [Traversy Media (lots of great tutorials)](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
@@ -187,6 +190,7 @@ A curated list of my favorite online video and blog tutorials for developers
 - Documentation
     - [Getting Started With TensorFlow](https://www.tensorflow.org/tutorials/)
     - [Machine Learning Tutorial for Beginners](https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners)
+    - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - Videos
     - [Intro to Machine Learning (MIT)](https://www.youtube.com/watch?v=h0e2HAPTGF4)
     - [But what *is* a Neural Network? | Deep learning, chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
@@ -277,6 +281,7 @@ A curated list of my favorite online video and blog tutorials for developers
 
 - Docs
     - [Map, Filter, and Reduce on learnpython.org](https://www.learnpython.org/en/Map,_Filter,_Reduce)
+    - [Awesome Python](https://github.com/vinta/awesome-python)
 
 - Tools
     - [pipx](https://pypi.org/project/pipx/)
