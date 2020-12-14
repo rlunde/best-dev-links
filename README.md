@@ -143,6 +143,7 @@ A curated list of my favorite online video and blog tutorials for developers
 - Tools
     - [Ent -- an Entity Framework for Go](https://entgo.io/)
     - [Tools, Examples, etc. for making Go AWS Lambdas](https://github.com/aws/aws-lambda-go)
+    - [Ristretto - a fast concurrent cache library](https://github.com/dgraph-io/ristretto)
 
 ## Humor
 - Satirical Code
@@ -195,6 +196,8 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Intro to Machine Learning (MIT)](https://www.youtube.com/watch?v=h0e2HAPTGF4)
     - [But what *is* a Neural Network? | Deep learning, chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
     - [Python Machine Learning Tutorial w/ Scikit Learn](https://www.youtube.com/watch?v=M9Itm95JzL0&list=WL&index=1)
+- Courses
+    - [Machine Learning (Coursera/Stanford)](https://www.coursera.org/learn/machine-learning)
 
 ## Node
 - Blogs
