@@ -87,6 +87,8 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Heaps](https://www.youtube.com/watch?v=t0Cq6tVNRBA)
 
 ### Elastic Search
+- Docs
+    - [ElasticSearch 7.10 Reference](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
 - Video Courses
     - [LinkedIn Learning: ElasticSearch Essential Training](https://www.linkedin.com/learning/elasticsearch-essential-training)
 
