@@ -173,6 +173,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Functional JavaScript](https://opensource.com/article/17/6/functional-javascript)
     - [JavaScript - Demystifying Promises](https://medium.com/weekly-webtips/javascript-demystifying-promises-b43c746ae35f)
     - [ES2020 with Examples](https://medium.com/better-programming/javascript-es2020-features-with-simple-examples-d301dbef2c37)
+    - [Deep vs Shallow Copies](https://www.freecodecamp.org/news/copying-stuff-in-javascript-how-to-differentiate-between-deep-and-shallow-copies-b6d8c1ef09cd/)
 - Interactive Learning
     - [CheckIO](https://js.checkio.org/)
 - Interactive Examples / Testing
