@@ -330,6 +330,12 @@ A curated list of my favorite online video and blog tutorials for developers
 - Tools
     - [Random User Generator](https://randomuser.me/)
 
+## Vue
+- Docs
+    - [Official Documentation](https://vuejs.org/v2/guide/)
+- Tutorials
+    - [Learning VueJS 3](https://www.linkedin.com/learning/learning-vue-js-3)
+
 ## Web Design
 - Resources
     - [Material Design Icons](https://material.io/resources/icons/?style=baseline)
