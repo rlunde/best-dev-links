@@ -273,6 +273,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Optimizing Python - a Case Study](https://www.airpair.com/python/posts/optimizing-python-code)
     - [Python Snippets](https://snippets.readthedocs.io/en/latest/)
     - [Python at Netflix](https://netflixtechblog.com/python-at-netflix-bba45dae649e)
+    - [Refactoring Python Applications for Simplicity](https://realpython.com/python-refactoring/)
 
 - Frameworks
     - [Flask (web development)](http://flask.pocoo.org/)
