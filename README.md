@@ -334,6 +334,7 @@ A curated list of my favorite online video and blog tutorials for developers
 ## Vue
 - Docs
     - [Official Documentation](https://vuejs.org/v2/guide/)
+    - [Using Vue in VS Code](https://code.visualstudio.com/docs/nodejs/vuejs-tutorial)
 - Tutorials
     - [Learning VueJS 3](https://www.linkedin.com/learning/learning-vue-js-3)
 
