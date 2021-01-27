@@ -275,6 +275,7 @@ A curated list of my favorite online video and blog tutorials for developers
     - [Python Snippets](https://snippets.readthedocs.io/en/latest/)
     - [Python at Netflix](https://netflixtechblog.com/python-at-netflix-bba45dae649e)
     - [Refactoring Python Applications for Simplicity](https://realpython.com/python-refactoring/)
+    - [You Don't Really Need a Virtualenv](https://frostming.com/2021/01-22/introducing-pdm/)
 
 - Frameworks
     - [Flask (web development)](http://flask.pocoo.org/)
